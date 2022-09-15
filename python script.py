@@ -25,6 +25,7 @@ print(A)
 print(B)
 print (C)
 print(A%4)
+print (A)
 
 
 
